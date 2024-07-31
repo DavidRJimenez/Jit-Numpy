@@ -13,7 +13,7 @@ matplotlib
 You can install these libraries using pip:
 
 sh
-Copiar código
+
 pip install numpy numba scikit-image matplotlib
 Content Overview
 Matrix Operations
